@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNG_Assignment"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.317">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testAPIResponse"
+                time="3.317"
+                classname="assignements.FirstAssignment">
+            </testcase>
+</testsuite>
