@@ -1,6 +1,6 @@
-package package1;
+package Reusable;
 
-public class reusable {
+public class Reuse {
 	public String CreatePostJson(String name,String year,String DOB,String Address,String Salary)
 	{
 		String body ="{\n" +

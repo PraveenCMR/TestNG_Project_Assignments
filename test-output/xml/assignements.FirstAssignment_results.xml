@@ -12,6 +12,6 @@
             <testcase
                 name="testAPIResponse"
                 time="3.317"
-                classname="assignements.FirstAssignment">
+                classname="testng_assign.FirstAssignment">
             </testcase>
 </testsuite>

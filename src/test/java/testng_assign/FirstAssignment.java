@@ -1,5 +1,4 @@
-package assignements;
-import io.restassured.RestAssured;
+package testng_assign;
 import io.restassured.response.Response;
 import org.testng.Assert;
 import org.testng.annotations.Parameters;
